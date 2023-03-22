@@ -10,6 +10,8 @@ public class TestHalooo {
         for (int i : testArray) {
             System.out.println(i);
         }
+
+        System.out.println("SIUUUU");
         
     }
 }
