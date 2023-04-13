@@ -76,4 +76,5 @@ public class WarmUp {
         }
         return sum;
     }
+
 }
